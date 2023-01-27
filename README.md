@@ -47,7 +47,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/Vsevolod90/Data_Science_Projects/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter
+git clone https://github.com/Vsevolod90/Data_Science_PROJECT_2.git
 ```
 
 ## Использование
